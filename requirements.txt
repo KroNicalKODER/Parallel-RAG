@@ -1,0 +1,10 @@
+numpy
+langchain
+ipykernel
+langchain_community
+pypdf
+streamlit
+requests
+langchain_ollama
+sentence-transformers
+chromadb
