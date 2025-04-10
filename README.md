@@ -14,7 +14,7 @@ Follow these steps to set up the project on your local machine:
    First, clone the repository to your local machine using the following command:
 
    ```bash
-   [git clone https://github.com/KroNicalKODER/alameno-ml.git](https://github.com/KroNicalKODER/Parallel-RAG.git)
+   git clone https://github.com/KroNicalKODER/Parallel-RAG.git
    cd Parallel-RAG
 
 2. **Install Dependecies**
